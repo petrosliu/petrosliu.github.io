@@ -1,54 +1,55 @@
 {
-    "basics":{
-        "name":"Yiding Liu",
-        "tel":"9795718860",
-        "email":"lyd@tamu.edu",
-        "links":[
+    "basics": {
+        "name": "Yiding Liu",
+        "tel": "OTc5NTcxODg2MA==",
+        "email": "bHlkQHRhbXUuZWR1",
+        "links": [
             {
-                "name":"github",
-                "link":"https://github.com/petrosliu"
+                "name": "github",
+                "link": "https://github.com/petrosliu"
             },
             {
-                "name":"linkedin",
-                "link":"http://www.linkedin.com/in/ydliu"
+                "name": "linkedin",
+                "link": "http://www.linkedin.com/in/ydliu"
             },
             {
-                "name":"instagram",
-                "link":"https://www.instagram.com/petrosliu/"
+                "name": "instagram",
+                "link": "https://www.instagram.com/petrosliu/"
             },
             {
-                "name":"wechat",
-                "link":"http://weixin.qq.com/r/uvu2rtjE_IWHrZzN966o"
+                "name": "wechat",
+                "link": "http://weixin.qq.com/r/uvu2rtjE_IWHrZzN966o"
             },
             {
-                "name":"resume",
-                "link":"https://www.dropbox.com/s/f3kphtk0zyv4hli/Yiding%20Liu%20Resume.pdf?raw=1"
+                "name": "resume",
+                "link": "https://www.dropbox.com/s/f3kphtk0zyv4hli/Yiding%20Liu%20Resume.pdf?raw=1"
             }
         ],
-        "summary":[
+        "summary": [
             "Second-year Aggie majors in Information Science & System with great ambition to benefit lives with cutting-edge technology. Multi-platform professional with diverse skills include software/hardware development and web/native app design. Deep in image, video and 3D scene processing and analysis involving machine learning techniques. Hard-working and goal-oriented developer",
             "Seeking to apply my abilities to a position of Software Engineer in 2016."
         ],
-        "portrait":"img/portrait.png",
-        "others":{
-            "backportrait":"img/portraitback.png"
+        "portrait": "img/portrait.png",
+        "others": {
+            "backportrait": "img/portraitback.png",
+            "formattedtel": "PGkgY2xhc3M9ImZhIGZhLWFuZ2xlLWxlZnQiPjwvaT45Nzk8aSBjbGFzcz0iZmEgZmEtYW5nbGUtcmlnaHQiPjwvaT41NzEtODg2MA==",
+            "formattedemail": "bHlkPGkgY2xhc3M9ImZhIGZhLWF0Ij48L2k+dGFtdS5lZHU="
         }
     },
-    
-    "education":{
-        "colleges":[
+    "education": {
+        "colleges": [
             {
-                "name":"Texas A&M University",
-                "logo":"img/Texas_A&M_University_Logo.svg",
-                "logowidth":"44px",
-                "color":"#500000",
-                "degree":"Master of Science",
-                "major":"Information Science & System",
-                "location":"College Station, TX",
-                "time":"August 2016",
-                "gpa":"3.9",
-                "overall":"4.0",
-                "courses":[
+                "name": "Texas A&M University",
+                "logo": "img/Texas_A&M_University_Logo.svg",
+                "logowidth": "44px",
+                "color": "#500000",
+                "degree": "Master of Science",
+                "major": "Information Science & System",
+                "location": "College Station, TX",
+                "time": "August 2016",
+                "gpa": "3.9",
+                "overall": "4.0",
+                "courses": [
                     "Analysis of Algorithms",
                     "Software Engineering",
                     "Machine Learning with Neural Networks",
@@ -59,17 +60,17 @@
                 ]
             },
             {
-                "name":"Nanjing University",
-                "logo":"img/Nanjing_University_Logo.svg",
-                "logowidth":"38px",
-                "color":"#63065f",
-                "degree":"Bachelor of Science",
-                "major":"Electrical Information Science & Technology",
-                "location":"Nanjing, China",
-                "time":"July 2014",
-                "gpa":"3.4",
-                "overall":"4.0",
-                "courses":[
+                "name": "Nanjing University",
+                "logo": "img/Nanjing_University_Logo.svg",
+                "logowidth": "38px",
+                "color": "#63065f",
+                "degree": "Bachelor of Science",
+                "major": "Electrical Information Science & Technology",
+                "location": "Nanjing, China",
+                "time": "July 2014",
+                "gpa": "3.4",
+                "overall": "4.0",
+                "courses": [
                     "C++ and Object Oriented Programming",
                     "Website Programming: JSP and MYSQL",
                     "Introduction to Database",
@@ -79,11 +80,11 @@
                 ]
             }
         ],
-        "others":[
+        "others": [
             {
-                "name":"Coursera",
-                "color":"#0068b0",
-                "courses":[
+                "name": "Coursera",
+                "color": "#0068b0",
+                "courses": [
                     "Front-End Web UI Frameworks and Tools",
                     "Machine Learning",
                     "Artificial Intelligence Planning",
@@ -93,149 +94,179 @@
             }
         ]
     },
-    
-    "skills":[
+    "skills": [
         {
-            "kind":"Languages",
-            "items":[
-                "C/C++", "Python", "JavaScript", "Shell scripting", "Ruby", "Swift", "SQL"
+            "kind": "Languages",
+            "items": [
+                "C/C++",
+                "Python",
+                "JavaScript",
+                "Shell scripting",
+                "Ruby",
+                "Swift",
+                "SQL"
             ]
         },
         {
-            "kind":"Web Development",
-            "items":[
-                "HTML", "CSS", "JavaScript", "Python", "Bootstrap", "XML", "JSON"
+            "kind": "Web Development",
+            "items": [
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "Python",
+                "Bootstrap",
+                "XML",
+                "JSON"
             ]
         },
         {
-            "kind":"Tools",
-            "items":[
-                "Visual Studio", "Matlab", "LaTeX", "Xcode", "Git", "OpenCV", "OpenGL", "Photoshop"
+            "kind": "Tools",
+            "items": [
+                "Visual Studio",
+                "Matlab",
+                "LaTeX",
+                "Xcode",
+                "Git",
+                "OpenCV",
+                "OpenGL",
+                "Photoshop"
             ]
         },
         {
-            "kind":"Others",
-            "items":[
-                "Image Processing", "Computer Graphics", "Machine Learning", "Artificial Intelligence"
+            "kind": "Others",
+            "items": [
+                "Image Processing",
+                "Computer Graphics",
+                "Machine Learning",
+                "Artificial Intelligence"
             ]
         }
     ],
-    
-    "experience":{
-        "works":[
+    "experience": {
+        "works": [
             {
-                "title":"C++ Developer",
-                "location":"Media Lab, Department of Electrical & Computer Engineering, Texas A&M University, TX",
-                "time":"January 2015 - Present",
-                "description":[
+                "title": "C++ Developer",
+                "location": "Media Lab, Department of Electrical & Computer Engineering, Texas A&M University, TX",
+                "time": "January 2015 - Present",
+                "description": [
                     "Designed a JPEG XR encoder to support efficient and precise control of compression rate and signal-to-noise ratio.",
-                "Proposed an image format based on JPEG XR to store 3D geophysical data (SEG-Y) with floating-point values in any range."
+                    "Proposed an image format based on JPEG XR to store 3D geophysical data (SEG-Y) with floating-point values in any range."
                 ],
-                "link":"https://github.com/petrosliu/JPEGXR-Extended",
-                "logo":"fa fa-cog faa-shake faa-slow animated",
-                "images":[
+                "link": "https://github.com/petrosliu/JPEGXR-Extended",
+                "logo": "fa fa-cog faa-shake faa-slow animated",
+                "images": [
                     "img/exp/exp1.1.png",
                     "img/exp/exp1.2.png"
                 ]
             },
             {
-                "title":"Research Internship",
-                "location":"CG Lab, Institute of Computer Science & Technology, Peking University, Beijing, China",
-                "time":"July 2013 - May 2014",
-                "description":[
+                "title": "Research Internship",
+                "location": "CG Lab, Institute of Computer Science & Technology, Peking University, Beijing, China",
+                "time": "July 2013 - May 2014",
+                "description": [
                     "Designed a 3D calibration method of multiple cameras used in a dynamic 3D object reconstruction system based on Image-Based Visual Hulls (IBVH) by improving a classical solution to the P4P problem in order to adapt for cubic calibration object and multiple control points.",
                     "Proposed an estimation method to evaluate the view angle scope of application of the calibration system and to help designers test the feasibility of the design of the calibra- tion object beforehand by quantifying the algorithm error in the rotation matrix, the translation vector and other physical quantities."
                 ],
-                "link":"https://github.com/petrosliu/Camera-Calibration",
-                "logo":"fa fa-fw fa-github",
-                "images":[
+                "link": "https://github.com/petrosliu/Camera-Calibration",
+                "logo": "fa fa-fw fa-github",
+                "images": [
                     "img/exp/exp2.1.png",
                     "img/exp/exp2.2.png",
                     "img/exp/exp2.3.png"
                 ]
             },
             {
-                "title":"Research Assistant",
-                "location":"Embedded Software/Hardware R&D Center, Nanjing University, Nanjing, China",
-                "time":"September 2012 - July 2013",
-                "description":[
+                "title": "Research Assistant",
+                "location": "Embedded Software/Hardware R&D Center, Nanjing University, Nanjing, China",
+                "time": "September 2012 - July 2013",
+                "description": [
                     "Proposed an algorithm to denoise and complete KINECT depth map by matching with detected edges of RGB maps.",
                     "Built a mobile robot platform for KINECT to exchange movement commands and measurement with PC.",
                     "Implemented Simultaneous Localization and Mapping (SLAM) algorithm to reconstruct 3D indoor scene with KINECT depth and RGB video and robot movement automatically."
                 ],
-                "link":"https://github.com/petrosliu/Mobile-Robot-Platform",
-                "logo":"fa fa-fw fa-github",
-                "images":[
+                "link": "https://github.com/petrosliu/Mobile-Robot-Platform",
+                "logo": "fa fa-fw fa-github",
+                "images": [
                     "img/exp/exp3.1.png",
                     "img/exp/exp3.2.png",
                     "img/exp/exp3.3.png"
                 ]
             }
         ],
-        "projects":[
+        "projects": [
             {
-                "title":"Mentor Matching System",
-                "description":["Built a student community website with Ruby on Rails and JavaScript to help students form groups and match mentors for competitions.","Exploited agile development and created a Software as a Service (SaaS)."],
-                "link":"http://honorsprograms.tamu.edu",
-                "logo":"fa fa-cog faa-shake faa-slow animated",
-                "organization":"TAMU Honors Program"
+                "title": "Mentor Matching System",
+                "description": [
+                    "Built a student community website with Ruby on Rails and JavaScript to help students form groups and match mentors for competitions.",
+                    "Exploited agile development and created a Software as a Service (SaaS)."
+                ],
+                "link": "http://honorsprograms.tamu.edu",
+                "logo": "fa fa-cog faa-shake faa-slow animated",
+                "organization": "TAMU Honors Program"
             },
             {
-                "title":"Genetic Prognosis",
-                "description":["Applied machine learning methods to identify gene-expression signatures in a genetic dataset and analyzed the performance of different classifier design, error estimation, and feature selection techniques."],
-                "link":"https://github.com/petrosliu/Genetic-Prognosis",
-                "logo":"fa fa-fw fa-github",
-                "organization":"Pattern Recognition"
+                "title": "Genetic Prognosis",
+                "description": [
+                    "Applied machine learning methods to identify gene-expression signatures in a genetic dataset and analyzed the performance of different classifier design, error estimation, and feature selection techniques."
+                ],
+                "link": "https://github.com/petrosliu/Genetic-Prognosis",
+                "logo": "fa fa-fw fa-github",
+                "organization": "Pattern Recognition"
             },
             {
-                "title":"Network Optimization",
-                "description":["Utilized multiple data structures and different max-bandwidth-path algorithms to implement a network routing protocol with Python."],
-                "link":"https://github.com/petrosliu/Network-Optimization",
-                "logo":"fa fa-fw fa-github",
-                "organization":"Analysis of Algorithms"
+                "title": "Network Optimization",
+                "description": [
+                    "Utilized multiple data structures and different max-bandwidth-path algorithms to implement a network routing protocol with Python."
+                ],
+                "link": "https://github.com/petrosliu/Network-Optimization",
+                "logo": "fa fa-fw fa-github",
+                "organization": "Analysis of Algorithms"
             },
             {
-                "title":"Website Design",
-                "description":["Designed a restaurant website supporting reservation and review using JavaScript and Bootstrap."],
-                "link":"https://github.com/petrosliu/Restaurant-Website",
-                "logo":"fa fa-fw fa-github",
-                "organization":"Front-End Web UI Frameworks and Tools"
+                "title": "Website Design",
+                "description": [
+                    "Designed a restaurant website supporting reservation and review using JavaScript and Bootstrap."
+                ],
+                "link": "https://github.com/petrosliu/Restaurant-Website",
+                "logo": "fa fa-fw fa-github",
+                "organization": "Front-End Web UI Frameworks and Tools"
             },
             {
-                "title":"Photo Filter iOS App",
-                "description":["Developed a universal iOS app with Swift to apply multiple blend filters and tunings on photos."],
-                "link":"https://github.com/petrosliu/Photo-Filter-App",
-                "logo":"fa fa-fw fa-github",
-                "organization":"iOS App Development Basics"
+                "title": "Photo Filter iOS App",
+                "description": [
+                    "Developed a universal iOS app with Swift to apply multiple blend filters and tunings on photos."
+                ],
+                "link": "https://github.com/petrosliu/Photo-Filter-App",
+                "logo": "fa fa-fw fa-github",
+                "organization": "iOS App Development Basics"
             }
         ]
     },
-    
-    "honors":[
+    "honors": [
         {
-            "title":"Graduate Merit Scholarship",
-            "awarder":"Texas A&M University",
-            "time":"2015"
+            "title": "Graduate Merit Scholarship",
+            "awarder": "Texas A&M University",
+            "time": "2015"
         },
         {
-            "title":"Graduate Merit Scholarship",
-            "awarder":"Texas A&M University",
-            "time":"2014"
+            "title": "Graduate Merit Scholarship",
+            "awarder": "Texas A&M University",
+            "time": "2014"
         },
         {
-            "title":"People’s Scholarship",
-            "awarder":"Nanjing University",
-            "time":"2013"
+            "title": "People’s Scholarship",
+            "awarder": "Nanjing University",
+            "time": "2013"
         },
         {
-            "title":"People’s Scholarship",
-            "awarder":"Nanjing University",
-            "time":"2012"
+            "title": "People’s Scholarship",
+            "awarder": "Nanjing University",
+            "time": "2012"
         },
         {
-            "title":"Outstanding League Member",
-            "awarder":"Student Union, Nanjing University",
-            "time":"2010"
+            "title": "Outstanding League Member",
+            "awarder": "Student Union, Nanjing University",
+            "time": "2010"
         }
     ]
 }

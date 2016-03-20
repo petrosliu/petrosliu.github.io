@@ -164,17 +164,16 @@ $(document).ready(function() {
     $('#phone-sidebar').html('<i class="fa fa-fw fa-phone"></i>&nbsp;&nbsp;' + text);
 
     text = atob(obj.basics.email);
-    $('#mail-sidebar').attr('href', 'mailto:' + text);
     $('#mail-toggled').attr('href', 'mailto:' + text);
+    $('#mail-sidebar').attr('href', 'mailto:' + text);
     
     text = atob(obj.basics.others.formattedemail);
-    $('#mail-sidebar').html('<i class="fa fa-fw fa-envelope"></i>&nbsp;&nbsp;' + text);
     $('#mail-toggled').html('<i class="fa fa-fw fa-envelope"></i>&nbsp;' + text);
+    $('#mail-sidebar').html('<i class="fa fa-fw fa-envelope"></i>&nbsp;&nbsp;' + text);
 
     $('[data-toggle="tooltip"]').tooltip({
         container: 'body'
     });
-
 
     if ($(window).width() < 768) {
         setTimeout(function() {

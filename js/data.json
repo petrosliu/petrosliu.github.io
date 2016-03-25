@@ -198,17 +198,17 @@
             {
                 "title": "Mentor Matching System",
                 "description": [
-                    "Built a student community website with Ruby on Rails, SQL, JavaScript and Bootstrap to help students and mentors form teams for competitions.",
+                    "Built a student community website with Ruby on Rails, PostgreSQL, JavaScript and Bootstrap to help students and mentors form teams for competitions.",
                     "Exploited SaaS model, RESTful API and agile development with a team of 6."
                 ],
-                "link": "http://honorsprograms.tamu.edu",
+                "link": "https://github.com/GoldenMinerGo/Mentor-Matching-System",
                 "logo": "fa fa-cog faa-shake faa-slow animated",
                 "organization": "TAMU Honors Program"
             },
             {
                 "title": "Genetic Prognosis",
                 "description": [
-                    "Identified gene-expression signatures in a genetic dataset with LDA, KNN and SVM algorithms.", 
+                    "Identified gene-expression signatures in a genetic dataset with LDA, KNN and SVM algorithms.",
                     "Analyzed the performance of multiple classifier design, error estimation, and feature selection techniques."
                 ],
                 "link": "https://github.com/petrosliu/Genetic-Prognosis",

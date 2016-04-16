@@ -147,6 +147,7 @@
         "works": [
             {
                 "title": "C++ Developer",
+                "tags": ["C++","Linux","Data Compression"],
                 "location": "Media Lab, Department of Electrical & Computer Engineering, Texas A&M University, TX",
                 "time": "January 2015 - Present",
                 "description": [
@@ -162,6 +163,7 @@
             },
             {
                 "title": "Research Internship",
+                "tags": ["C++","OpenCV","OpenGL","Camera Calibration"],
                 "location": "CG Lab, Institute of Computer Science & Technology, Peking University, Beijing, China",
                 "time": "July 2013 - May 2014",
                 "description": [
@@ -178,6 +180,7 @@
             },
             {
                 "title": "Research Assistant",
+                "tags": ["C++","KINECT","OpenGL","3D Reconstruction"],
                 "location": "Embedded Software/Hardware R&D Center, Nanjing University, Nanjing, China",
                 "time": "September 2012 - July 2013",
                 "description": [
@@ -197,6 +200,7 @@
         "projects": [
             {
                 "title": "Mentor Matching System",
+                "tags": ["Ruby on Rails","PostgreSQL","JavaScript","Agile","SaaS"],
                 "description": [
                     "Built a student community website with Ruby on Rails, PostgreSQL, JavaScript and Bootstrap to help students and mentors form teams for competitions.",
                     "Exploited SaaS model, RESTful API and agile development with a team of 6."
@@ -207,6 +211,7 @@
             },
             {
                 "title": "Genetic Prognosis",
+                "tags": ["Matlab","Machine Learning"],
                 "description": [
                     "Identified gene-expression signatures in a genetic dataset with LDA, KNN and SVM algorithms.",
                     "Analyzed the performance of multiple classifier design, error estimation, and feature selection techniques."
@@ -217,6 +222,7 @@
             },
             {
                 "title": "Network Optimization",
+                "tags": ["Python","Algorithms","Data Structures"],
                 "description": [
                     "Implemented a network routing protocol in Python with Dijkstra’s and Kruskal’s max- bandwidth-path algorithms and multiple data structures."
                 ],
@@ -226,6 +232,7 @@
             },
             {
                 "title": "Website Design",
+                "tags": ["JavaScript","Bootstrap","HTML","CSS"],
                 "description": [
                     "Designed a restaurant website supporting reservation and review using JavaScript and Bootstrap."
                 ],
@@ -235,6 +242,7 @@
             },
             {
                 "title": "Photo Filter iOS App",
+                "tags": ["Swift","iOS","Image Processing"],
                 "description": [
                     "Developed a universal photo editing app for iOS in Swift to offer multiple blend filters and tunings."
                 ],

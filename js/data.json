@@ -26,7 +26,7 @@
             }
         ],
         "summary": [
-            "Second-year Aggie majors in Information Science & System with great ambition to benefit lives with cutting-edge technology. Multi-platform professional with diverse skills include software/hardware development and web/native app design. Deep in image, video and 3D scene processing and analysis involving machine learning techniques. Hard-working and goal-oriented developer",
+            "Second-year Aggie majors in Information Science &amp; System with great ambition to benefit lives with cutting-edge technology. Multi-platform professional with diverse skills include software/hardware development and web/native app design. Deep in image, video and 3D scene processing and analysis involving machine learning techniques. Hard-working and goal-oriented developer",
             "Seeking to apply my abilities to a position of Software Engineer in 2016."
         ],
         "portrait": "img/portrait.png",
@@ -39,12 +39,12 @@
     "education": {
         "colleges": [
             {
-                "name": "Texas A&M University",
-                "logo": "img/Texas_A&M_University_Logo.svg",
+                "name": "Texas A&amp;M University",
+                "logo": "img/Texas_A&amp;M_University_Logo.svg",
                 "logowidth": "44px",
                 "color": "#500000",
                 "degree": "Master of Science",
-                "major": "Information Science & System",
+                "major": "Information Science &amp; System",
                 "location": "College Station, TX",
                 "time": "August 2016",
                 "gpa": "3.9",
@@ -65,7 +65,7 @@
                 "logowidth": "38px",
                 "color": "#63065f",
                 "degree": "Bachelor of Science",
-                "major": "Electrical Information Science & Technology",
+                "major": "Electrical Information Science &amp; Technology",
                 "location": "Nanjing, China",
                 "time": "July 2014",
                 "gpa": "3.4",
@@ -148,7 +148,7 @@
             {
                 "title": "C++ Developer",
                 "tags": ["C++","Linux","Data Compression"],
-                "location": "Media Lab, Department of Electrical & Computer Engineering, Texas A&M University, TX",
+                "location": "Media Lab, Department of Electrical &amp; Computer Engineering, Texas A&amp;M University, TX",
                 "time": "January 2015 - Present",
                 "description": [
                     "Designed a JPEG XR encoder in C++ to support efficient and precise control of bit rate and SNR.",
@@ -181,7 +181,7 @@
             {
                 "title": "Research Assistant",
                 "tags": ["C++","KINECT","OpenGL","3D Reconstruction"],
-                "location": "Embedded Software/Hardware R&D Center, Nanjing University, Nanjing, China",
+                "location": "Embedded Software/Hardware R&amp;D Center, Nanjing University, Nanjing, China",
                 "time": "September 2012 - July 2013",
                 "description": [
                     "Proposed an algorithm to denoise and complete KINECT depth map by matching with detected edges of RGB maps.",
@@ -224,7 +224,7 @@
                 "title": "Network Optimization",
                 "tags": ["Python","Algorithms","Data Structures"],
                 "description": [
-                    "Implemented a network routing protocol in Python with Dijkstra’s and Kruskal’s max- bandwidth-path algorithms and multiple data structures."
+                    "Implemented a network routing protocol in Python with Dijkstra&rsquo;s and Kruskal&rsquo;s max- bandwidth-path algorithms and multiple data structures."
                 ],
                 "link": "https://github.com/petrosliu/Network-Optimization",
                 "logo": "fa fa-fw fa-github",
@@ -255,21 +255,21 @@
     "honors": [
         {
             "title": "Graduate Merit Scholarship",
-            "awarder": "Texas A&M University",
+            "awarder": "Texas A&amp;M University",
             "time": "2015"
         },
         {
             "title": "Graduate Merit Scholarship",
-            "awarder": "Texas A&M University",
+            "awarder": "Texas A&amp;M University",
             "time": "2014"
         },
         {
-            "title": "People’s Scholarship",
+            "title": "People&rsquo;s Scholarship",
             "awarder": "Nanjing University",
             "time": "2013"
         },
         {
-            "title": "People’s Scholarship",
+            "title": "People&rsquo;s Scholarship",
             "awarder": "Nanjing University",
             "time": "2012"
         }

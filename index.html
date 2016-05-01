@@ -52,17 +52,17 @@
                             <div class="contact">
                                 <table align="center">
                                     <tr>
-                                        <td style="align:left"><a id="phone-sidebar" href="" type="button" class="btn btn-link faa-parent animated-hover"><i class="fa fa-fw fa-phone faa-shake"></i></a></td>
+                                        <td style="align:left"><a id="phone-sidebar" href="" type="button" class="btn btn-link faa-parent animated-hover"></a></td>
                                         <td style="align:center"><a target="_blank" href="https://github.com/petrosliu" type="button" class="btn btn-link"><i class="fa fa-fw fa-github"></i></a></td>
                                         <td style="align:center"><a target="_blank" href="http://www.linkedin.com/in/ydliu" type="button" class="btn btn-link"><i class="fa fa-fw fa-linkedin-square"></i></a></td>
                                     </tr>
                                     <tr>
-                                        <td style="align:left"><a id="mail-sidebar" href="" type="button" class="btn btn-link faa-parent animated-hover"><i class="fa fa-fw fa-envelope faa-shake"></i></a></td>
+                                        <td style="align:left"><a id="mail-sidebar" href="" type="button" class="btn btn-link faa-parent animated-hover"></a></td>
                                         <td style="align:center"><a target="_blank" href="https://www.instagram.com/petrosliu/" type="button" class="btn btn-link"><i class="fa fa-fw fa-instagram"></i></a></td>
                                         <td style="align:center"><a id="wechat" type="button" data-toggle="tooltip" rel="popover" title="petrosliu" class="btn btn-link"><i class="fa fa-fw fa-wechat"></i></a></td>
                                     </tr>
                                 </table>
-                                <a class="btn btn-link" type="button" target="_blank" href="https://www.dropbox.com/s/f3kphtk0zyv4hli/Yiding%20Liu%20Resume.pdf?raw=1" style="color:#FFF;">
+                                <a class="btn btn-link" type="button" data-toggle="modal" data-target=".resume-modal" style="color:#FFF;">
                                 <i class="fa fa-fw fa-file-text faa-tada faa-slow animated"></i>&nbsp;&nbsp;Resume
                                 </a>
                             </div>
@@ -110,7 +110,7 @@
             <div id="top"></div>
             <div id="page-content-wrapper">
                 <div id="notif" class="row row-content">
-                    <div class="col-lg-10 col-md-10 col-lg-offset-1 col-md-offset-1 col-sm-12 col-xs-12 animated zoomInDown">
+                    <div class="col-lg-10 col-md-10 col-lg-offset-1 col-md-offset-1 col-sm-12 col-xs-12 animated slideInDown">
                         <div class="alert alert-warning alert-dismissible fade in" role="alert">
                             <button type="button" class="close" data-dismiss="alert" aria-label="Close">
                             <span aria-hidden="true" style="vertical-align: middle;">&times;</span>
@@ -182,7 +182,7 @@
                     <div class="col-lg-10 col-md-10 col-lg-offset-1 col-md-offset-1 col-sm-12 col-xs-12">
                         <h3>Education</h3>
                         <div id="edutable" class="col-lg-10 col-md-11 col-sm-12 col-xs-12"></div>
-                        <div class="col-lg-10 col-md-11 col-sm-12 col-xs-12"><button class="btn btn-default btn-xs btn-more btn-block" type="button" data-toggle="collapse" data-target="#collapseCourse" aria-expanded="false" aria-controls="collapseCourse"><i class="fa fa-book"></i> Courses</button></div>
+                        <div class="col-lg-10 col-md-11 col-sm-12 col-xs-12"><button class="btn btn-default btn-sm btn-more btn-block" type="button" data-toggle="collapse" data-target="#collapseCourse" aria-expanded="false" aria-controls="collapseCourse"><i class="fa fa-angle-down" aria-hidden="true"></i> Courses <i class="fa fa-angle-down" aria-hidden="true"></i></button></div>
                         <div class="col-lg-10 col-md-11 col-sm-12 col-xs-12">
                             <div class="collapse" id="collapseCourse">
                                 <div class="well">
@@ -229,7 +229,8 @@
                 <div id="quote" class="row row-content">
                     <div class="col-lg-10 col-md-10 col-lg-offset-1 col-md-offset-1 col-sm-12 col-xs-12">
                         <div class="col-lg-10 col-md-11 col-sm-12 col-xs-12" align="center">
-                            <i class="fa fa-quote-left fa-3x fa-pull-left" style='color:#CCCCCC;'></i><br><h3 style='display:inline;color:#BBBBBB;'>Life's a journey and I'm looking for the joy.</h3>
+                            <i class="fa fa-quote-left fa-3x fa-pull-left" style='color:#CCCCCC;'></i><br>
+                            <h3 style='display:inline;color:#BBBBBB;'>Life's a journey and I'm looking for the joy.</h3>
                             <i class="fa fa-quote-right fa-3x fa-pull-right" style='color:#CCCCCC;'></i>
                         </div>
                     </div>
@@ -237,12 +238,11 @@
                         <hr>
                     </div>
                 </div>
-            
                 <div class="row row-content crpage-footer">
                     <div class="col-lg-10 col-md-10 col-lg-offset-1 col-md-offset-1 col-sm-12 col-xs-12">
                         <div class="col-lg-10 col-md-11 col-sm-12 col-xs-12" align="center">
-                        Copyright &copy; 2016 Yiding Liu<br>
-                        Built with <a href='http://getbootstrap.com/'>Bootstrap</a>, <a href='https://fortawesome.github.io/Font-Awesome/'>Font Awesome</a> and more. <a href='https://github.com/petrosliu/petrosliu.github.io'><i class='fa fa-github'></i></a>
+                            Copyright &copy; 2016 Yiding Liu<br>
+                            Built with <a href='http://getbootstrap.com/'>Bootstrap</a>, <a href='https://fortawesome.github.io/Font-Awesome/'>Font Awesome</a> and more. <a href='https://github.com/petrosliu/petrosliu.github.io'><i class='fa fa-github'></i></a>
                         </div>
                     </div>
                 </div>
@@ -250,7 +250,7 @@
         </div>
         </div>
         <span id="top-link-block" class="hidden">
-        <a href="#top" class="sidebar-link" style="color:rgba(0, 0, 0, 0.3);">
+        <a href="#top" class="sidebar-link" style="color:rgba(0,0,0,0.3);">
         <i class="fa fa-chevron-circle-up fa-3x faa-float animated"></i>
         </a>
         </span><!-- /top-link-block -->
@@ -260,6 +260,19 @@
                 <div class="modal-content">
                     <div class="modal-body">
                         <img draggable="false" class="modal-img" data-dismiss="modal" aria-label="Close" scr="" style="width:100%;height:100%;">
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="modal fade resume-modal" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel">
+            <div class="modal-dialog modal-lg">
+                <div class="modal-content">
+                    <div class="modal-header" style="padding: 0px;">
+                        <button type="button" class="close" style="padding-top:15px;padding-right:20px;" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                        <a target="_blank" href="https://www.dropbox.com/s/f3kphtk0zyv4hli/Yiding%20Liu%20Resume.pdf?raw=1" type="button" class="btn btn-link btn-lg" style="padding-top:15px;color:#777;"><i class="fa fa-fw fa-download"></i></a>
+                    </div>
+                    <div class="modal-body">
+                        <iframe id="resumeframe" src="https://www.dropbox.com/s/f3kphtk0zyv4hli/Yiding%20Liu%20Resume.pdf?raw=1" width="100%" height="500px" frameborder="0" allowtransparency="true"></iframe>
                     </div>
                 </div>
             </div>

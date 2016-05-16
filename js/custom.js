@@ -14,7 +14,7 @@ $(document).ready(function() {
             obj.education.colleges[i].logowidth +
             ';"></td><td><span><I>' +
             obj.education.colleges[i].degree +
-            '</I> <span class="badge progress-bar-warning">' +
+            '</I> <span class="badge badge-warning">' +
             obj.education.colleges[i].gpa + ' / ' + obj.education.colleges[i].overall +
             '</span><br>' +
             obj.education.colleges[i].major +
@@ -71,15 +71,15 @@ $(document).ready(function() {
 
     var exptext = '';
     for (var i = 0; i < obj.experience.works.length; i++) {
-        exptext += '<div class="col-lg-5 col-md-6 col-sm-6 col-xs-6"><B>' +
+        exptext += '<div class="col-sm-6"><B>' +
             obj.experience.works[i].title +
-            '</B></div><div class="col-lg-5 col-md-5 col-sm-6 col-xs-6 td-right">' +
+            '</B></div><div class="col-sm-6 td-right">' +
             obj.experience.works[i].time +
             '</div>';
 
-        exptext += '<div class="col-lg-10 col-md-11 col-sm-12 col-xs-12">' +
+        exptext += '<div class="col-sm-12">' +
             obj.experience.works[i].location +
-            '</div><div class="col-lg-10 col-md-11 col-sm-12 col-xs-12"><a type="button" target="_blank" href="' +
+            '</div><div class="col-sm-12 label-div"><a type="button" target="_blank" href="' +
             obj.experience.works[i].link +
             '"><span class="label label-default"><i class="' +
             obj.experience.works[i].logo +
@@ -91,7 +91,7 @@ $(document).ready(function() {
             exptext += '<span class="label label-warning">' + obj.experience.works[i].tags[j] + '</span> ';
         }
 
-        exptext += '</div><div class="col-lg-10 col-md-11 col-sm-12 col-xs-12"><div class="collapse" id="collapseExp' + i +
+        exptext += '</div><div class="col-sm-12"><div class="collapse" id="collapseExp' + i +
             '" aria-expanded="false" style="height: 0px;"><div style="height:20px;width:100%;"></div><div class="well"><div id="carousel-exp' + i +
             '-generic" class="carousel slide" data-ride="carousel"><div class="carousel-inner" role="listbox">';
 
@@ -109,7 +109,7 @@ $(document).ready(function() {
             '-generic" role="button" data-slide="prev"><span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span><span class="sr-only">Previous</span></a><a class="right carousel-control" href="#carousel-exp' + i +
             '-generic" role="button" data-slide="next"><span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span><span class="sr-only">Next</span></a></div></div></div></div>';
 
-        exptext += '<div class="col-lg-10 col-md-11 col-sm-12 col-xs-12"><ul>';
+        exptext += '<div class="col-sm-12"><ul>';
 
         for (var j = 0; j < obj.experience.works[i].description.length; j++) {
             exptext += '<li>' +
@@ -122,11 +122,11 @@ $(document).ready(function() {
 
     var projecttext = '';
     for (var i = 0; i < obj.experience.projects.length; i++) {
-        projecttext += '<div class="col-lg-10 col-md-11 col-sm-12 col-xs-12"><B>' +
+        projecttext += '<div class="col-sm-12"><B>' +
             obj.experience.projects[i].title +
-            '</B></div><div class="col-lg-10 col-md-11 col-sm-12 col-xs-12">' +
+            '</B></div><div class="col-sm-12">' +
             obj.experience.projects[i].organization +
-            '</div><div class="col-lg-10 col-md-11 col-sm-12 col-xs-12"><a type="button" target="_blank" href="' +
+            '</div><div class="col-sm-12 label-div"><a type="button" target="_blank" href="' +
             obj.experience.projects[i].link +
             '"><span class="label label-default"><i class="' +
             obj.experience.projects[i].logo +
@@ -136,7 +136,7 @@ $(document).ready(function() {
             projecttext += '<span class="label label-warning">' + obj.experience.projects[i].tags[j] + '</span> ';
         }
 
-        projecttext += '</div><div class="col-lg-10 col-md-11 col-sm-12 col-xs-12"><ul>';
+        projecttext += '</div><div class="col-sm-12"><ul>';
 
         for (var j = 0; j < obj.experience.projects[i].description.length; j++) {
             projecttext += '<li>' +
@@ -167,7 +167,7 @@ $(document).ready(function() {
 
     text = atob(obj.basics.others.formattedtel);
     $('#phone-toggled').html('<i class="fa fa-fw fa-phone"></i>&nbsp;' + text);
-    $('#phone-sidebar').html('<i class="fa fa-fw fa-phone faa-float"></i>&nbsp;&nbsp;' + text);
+    $('#phone-sidebar').html('<i class="fa fa-fw fa-phone"></i>&nbsp;&nbsp;' + text);
 
     text = atob(obj.basics.email);
     $('#mail-toggled').attr('href', 'mailto:' + text);
@@ -175,7 +175,7 @@ $(document).ready(function() {
 
     text = atob(obj.basics.others.formattedemail);
     $('#mail-toggled').html('<i class="fa fa-fw fa-inbox"></i>&nbsp;' + text);
-    $('#mail-sidebar').html('<i class="fa fa-fw fa-inbox faa-float"></i>&nbsp;&nbsp;' + text);
+    $('#mail-sidebar').html('<i class="fa fa-fw fa-inbox"></i>&nbsp;&nbsp;' + text);
 
     $('#resumeframe').attr('height', window.innerHeight - 130);
 

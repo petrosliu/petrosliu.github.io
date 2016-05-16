@@ -26,7 +26,6 @@ p, h1, h2, h3, h4, h5, h6, td, div {
     width: 300px;
     height: 100%;
     margin-left: -300px;
-    overflow-y: auto;
     background: #FAFAFA;
     border-right: 1px solid #E9E9E9;
     -webkit-transition: all 0.5s ease;
@@ -75,7 +74,9 @@ p, h1, h2, h3, h4, h5, h6, td, div {
 }
 
 .sidebar-list a{
-    padding-left: 30px;
+    padding-right: 40px;
+    text-align: right;
+    
 }
 
 a {
@@ -354,11 +355,8 @@ div.carousel-img-container img {
     position: -o-sticky;
     position: sticky;
     top: 0;
-    z-index: 2;
-    background: -moz-linear-gradient(top,  rgba(255,255,255,0.95) 0%, rgba(255,255,255,0.95) 90%, rgba(255,255,255,0) 100%);
-    background: -webkit-linear-gradient(top,  rgba(255,255,255,0.95) 0%,rgba(255,255,255,0.95) 90%,rgba(255,255,255,0) 100%);
-    background: linear-gradient(to bottom,  rgba(255,255,255,0.95) 0%,rgba(255,255,255,0.95) 90%,rgba(255,255,255,0) 100%);
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fafafa', endColorstr='#00fafafa',GradientType=0 );
+    z-index:2;
+    text-shadow:2px 2px 5px rgba(255, 255, 255, 1),2px -2px 5px rgba(255, 255, 255, 1),-2px 2px 5px rgba(255, 255, 255, 1),-2px -2px 5px rgba(255, 255, 255, 1);
 }
 
 .badge-warning {
@@ -481,4 +479,8 @@ div.carousel-img-container img {
 .faa-float.animated {
   -webkit-animation: float 2s linear infinite;
   animation: float 2s linear infinite;
+}
+
+.popover-content {
+    padding: 0px 0px;
 }

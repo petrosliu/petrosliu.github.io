@@ -155,7 +155,7 @@
                     "Proposed an image format based on JPEG XR to store 3D geophysical data (SEG-Y) with floating-point values in any range."
                 ],
                 "link": "https://github.com/petrosliu/JPEGXR-Extended",
-                "logo": "fa fa-fw fa-cog faa-shake faa-slow animated",
+                "logo": "fa fa-fw fa-github",
                 "images": [
                     "img/exp/exp1.1.png",
                     "img/exp/exp1.2.png"
@@ -206,7 +206,7 @@
                     "Exploited SaaS model, RESTful API and agile development with a team of 6."
                 ],
                 "link": "https://github.com/GoldenMinerGo/Mentor-Matching-System",
-                "logo": "fa fa-fw fa-cog faa-shake faa-slow animated",
+                "logo": "fa fa-fw fa-github",
                 "organization": "TAMU Honors Program"
             },
             {

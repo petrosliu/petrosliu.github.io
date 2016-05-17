@@ -488,3 +488,13 @@ div.carousel-img-container img {
 .univlogo {
      width: 50px;
 }
+.gizmo {
+    width: 36px;
+    height: 36px;
+    border: 1px solid #E9E9E9;
+    background-color: #FAFAFA;
+    border-radius: 3em;
+    margin: 3px;
+    padding: 5px;
+    display: inline-block;
+}

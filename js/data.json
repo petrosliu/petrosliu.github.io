@@ -33,7 +33,8 @@
         "others": {
             "backportrait": "img/portraitback.png",
             "formattedtel": "PGkgY2xhc3M9ImZhIGZhLWFuZ2xlLWxlZnQiPjwvaT45Nzk8aSBjbGFzcz0iZmEgZmEtYW5nbGUtcmlnaHQiPjwvaT41NzEtODg2MA==",
-            "formattedemail": "bHlkPGkgY2xhc3M9ImZhIGZhLWF0Ij48L2k+dGFtdS5lZHU="
+            "formattedemail": "bHlkPGkgY2xhc3M9ImZhIGZhLWF0Ij48L2k+dGFtdS5lZHU=",
+            "wechatqr": "img/wechat.png"
         }
     },
     "education": {
@@ -41,7 +42,6 @@
             {
                 "name": "Texas A&amp;M University",
                 "logo": "img/Texas_A&amp;M_University_Logo.svg",
-                "logowidth": "44px",
                 "color": "#500000",
                 "degree": "Master of Science",
                 "major": "Information Science &amp; System",
@@ -62,7 +62,6 @@
             {
                 "name": "Nanjing University",
                 "logo": "img/Nanjing_University_Logo.svg",
-                "logowidth": "38px",
                 "color": "#63065f",
                 "degree": "Bachelor of Science",
                 "major": "Electrical Information Science &amp; Technology",

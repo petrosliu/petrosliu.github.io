@@ -475,3 +475,16 @@ div.carousel-img-container img {
 .modal-content {
     border-radius: 0;
 }
+.carousel-control .icon-prev:before {
+  font: normal normal normal 14px/1 FontAwesome;
+  font-size: 1em;
+  content: '\f104';
+}
+.carousel-control .icon-next:before {
+  font: normal normal normal 14px/1 FontAwesome;
+  font-size: 1em;
+  content: '\f105';
+}
+.univlogo {
+     width: 50px;
+}

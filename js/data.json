@@ -143,115 +143,149 @@
             ]
         }
     ],
-    "experience": {
-        "works": [
-            {
-                "title": "C++ Developer",
-                "tags": ["C++","Linux","Data Compression"],
-                "location": "Media Lab, Department of Electrical &amp; Computer Engineering, Texas A&amp;M University, TX",
-                "time": "January 2015 - Present",
-                "description": [
-                    "Designed a JPEG XR encoder in C++ to support efficient and precise control of bit rate and SNR.",
-                    "Proposed an image format based on JPEG XR to store 3D geophysical data (SEG-Y) with floating-point values in any range."
-                ],
-                "link": "https://github.com/petrosliu/JPEGXR-Extended",
-                "logo": "fa fa-fw fa-github",
-                "images": [
-                    "img/exp/exp1.1.png",
-                    "img/exp/exp1.2.png"
-                ]
-            },
-            {
-                "title": "Research Internship",
-                "tags": ["C++","OpenCV","OpenGL","Camera Calibration"],
-                "location": "CG Lab, Institute of Computer Science & Technology, Peking University, Beijing, China",
-                "time": "July 2013 - May 2014",
-                "description": [
-                    "Designed a 3D calibration method of multiple cameras used in a dynamic 3D object reconstruction system based on Image-Based Visual Hulls (IBVH) by improving a classical solution to the P4P problem in order to adapt to cubic calibration object and multiple control points.",
-                    "Proposed an algorithm to evaluate the scope of view angles in the calibration system and to help designers test the feasibility of designed calibration object by quantifying the error of calibration in the rotation matrix, the translation vector, etc."
-                ],
-                "link": "https://github.com/petrosliu/Camera-Calibration",
-                "logo": "fa fa-fw fa-github",
-                "images": [
-                    "img/exp/exp2.1.png",
-                    "img/exp/exp2.2.png",
-                    "img/exp/exp2.3.png"
-                ]
-            },
-            {
-                "title": "Research Assistant",
-                "tags": ["C++","KINECT","OpenGL","3D Reconstruction"],
-                "location": "Embedded Software/Hardware R&amp;D Center, Nanjing University, Nanjing, China",
-                "time": "September 2012 - July 2013",
-                "description": [
-                    "Proposed an algorithm to denoise and complete KINECT depth map by matching with detected edges of RGB maps.",
-                    "Built a mobile robot platform for KINECT to exchange movement commands and measurement with PC.",
-                    "Implemented Simultaneous Localization and Mapping (SLAM) algorithm to reconstruct 3D indoor scene with KINECT depth and RGB video and robot movement automatically."
-                ],
-                "link": "https://github.com/petrosliu/Mobile-Robot-Platform",
-                "logo": "fa fa-fw fa-github",
-                "images": [
-                    "img/exp/exp3.1.png",
-                    "img/exp/exp3.2.png",
-                    "img/exp/exp3.3.png"
-                ]
-            }
-        ],
-        "projects": [
-            {
-                "title": "Mentor Matching System",
-                "tags": ["Ruby on Rails","PostgreSQL","JavaScript","Agile","SaaS"],
-                "description": [
-                    "Built a student community website with Ruby on Rails, PostgreSQL, JavaScript and Bootstrap to help students and mentors form teams for competitions.",
-                    "Exploited SaaS model, RESTful API and agile development with a team of 6."
-                ],
-                "link": "https://github.com/GoldenMinerGo/Mentor-Matching-System",
-                "logo": "fa fa-fw fa-github",
-                "organization": "TAMU Honors Program"
-            },
-            {
-                "title": "Genetic Prognosis",
-                "tags": ["Matlab","Machine Learning"],
-                "description": [
-                    "Identified gene-expression signatures in a genetic dataset with LDA, KNN and SVM algorithms.",
-                    "Analyzed the performance of multiple classifier design, error estimation, and feature selection techniques."
-                ],
-                "link": "https://github.com/petrosliu/Genetic-Prognosis",
-                "logo": "fa fa-fw fa-github",
-                "organization": "Pattern Recognition"
-            },
-            {
-                "title": "Network Optimization",
-                "tags": ["Python","Algorithms","Data Structures"],
-                "description": [
-                    "Implemented a network routing protocol in Python with Dijkstra&rsquo;s and Kruskal&rsquo;s max- bandwidth-path algorithms and multiple data structures."
-                ],
-                "link": "https://github.com/petrosliu/Network-Optimization",
-                "logo": "fa fa-fw fa-github",
-                "organization": "Analysis of Algorithms"
-            },
-            {
-                "title": "Website Design",
-                "tags": ["JavaScript","Bootstrap","HTML","CSS"],
-                "description": [
-                    "Designed a restaurant website supporting reservation and review using JavaScript and Bootstrap."
-                ],
-                "link": "https://github.com/petrosliu/Restaurant-Website",
-                "logo": "fa fa-fw fa-github",
-                "organization": "Front-End Web UI Frameworks and Tools"
-            },
-            {
-                "title": "Photo Filter iOS App",
-                "tags": ["Swift","iOS","Image Processing"],
-                "description": [
-                    "Developed a universal photo editing app for iOS in Swift to offer multiple blend filters and tunings."
-                ],
-                "link": "https://github.com/petrosliu/Photo-Filter-App",
-                "logo": "fa fa-fw fa-github",
-                "organization": "iOS App Development Basics"
-            }
-        ]
-    },
+    "experience": [
+        {
+            "title": "C++ Developer",
+            "tags": [
+                "C++",
+                "Linux",
+                "Data Compression"
+            ],
+            "location": "Media Lab, Department of Electrical &amp; Computer Engineering, Texas A&amp;M University, TX",
+            "time": "January 2015 - Present",
+            "description": [
+                "Designed a JPEG XR encoder in C++ to support efficient and precise control of bit rate and SNR.",
+                "Proposed an image format based on JPEG XR to store 3D geophysical data (SEG-Y) with floating-point values in any range."
+            ],
+            "link": "https://github.com/petrosliu/JPEGXR-Extended",
+            "logo": "fa fa-fw fa-github",
+            "images": [
+                "img/exp/exp1.1.png",
+                "img/exp/exp1.2.png"
+            ]
+        },
+        {
+            "title": "Research Internship",
+            "tags": [
+                "C++",
+                "OpenCV",
+                "OpenGL",
+                "Camera Calibration"
+            ],
+            "location": "CG Lab, Institute of Computer Science & Technology, Peking University, Beijing, China",
+            "time": "July 2013 - May 2014",
+            "description": [
+                "Designed a 3D calibration method of multiple cameras used in a dynamic 3D object reconstruction system based on Image-Based Visual Hulls (IBVH) by improving a classical solution to the P4P problem in order to adapt to cubic calibration object and multiple control points.",
+                "Proposed an algorithm to evaluate the scope of view angles in the calibration system and to help designers test the feasibility of designed calibration object by quantifying the error of calibration in the rotation matrix, the translation vector, etc."
+            ],
+            "link": "https://github.com/petrosliu/Camera-Calibration",
+            "logo": "fa fa-fw fa-github",
+            "images": [
+                "img/exp/exp2.1.png",
+                "img/exp/exp2.2.png",
+                "img/exp/exp2.3.png"
+            ]
+        },
+        {
+            "title": "Research Assistant",
+            "tags": [
+                "C++",
+                "KINECT",
+                "OpenGL",
+                "3D Reconstruction"
+            ],
+            "location": "Embedded Software/Hardware R&amp;D Center, Nanjing University, Nanjing, China",
+            "time": "September 2012 - July 2013",
+            "description": [
+                "Proposed an algorithm to denoise and complete KINECT depth map by matching with detected edges of RGB maps.",
+                "Built a mobile robot platform for KINECT to exchange movement commands and measurement with PC.",
+                "Implemented Simultaneous Localization and Mapping (SLAM) algorithm to reconstruct 3D indoor scene with KINECT depth and RGB video and robot movement automatically."
+            ],
+            "link": "https://github.com/petrosliu/Mobile-Robot-Platform",
+            "logo": "fa fa-fw fa-github",
+            "images": [
+                "img/exp/exp3.1.png",
+                "img/exp/exp3.2.png",
+                "img/exp/exp3.3.png"
+            ]
+        }
+    ],
+    "projects": [
+        {
+            "title": "Mentor Matching System",
+            "tags": [
+                "Ruby on Rails",
+                "PostgreSQL",
+                "JavaScript",
+                "Agile",
+                "SaaS"
+            ],
+            "description": [
+                "Built a student community website with Ruby on Rails, PostgreSQL, JavaScript and Bootstrap to help students and mentors form teams for competitions.",
+                "Exploited SaaS model, RESTful API and agile development with a team of 6."
+            ],
+            "link": "https://github.com/GoldenMinerGo/Mentor-Matching-System",
+            "logo": "fa fa-fw fa-github",
+            "organization": "TAMU Honors Program"
+        },
+        {
+            "title": "Genetic Prognosis",
+            "tags": [
+                "Matlab",
+                "Machine Learning"
+            ],
+            "description": [
+                "Identified gene-expression signatures in a genetic dataset with LDA, KNN and SVM algorithms.",
+                "Analyzed the performance of multiple classifier design, error estimation, and feature selection techniques."
+            ],
+            "link": "https://github.com/petrosliu/Genetic-Prognosis",
+            "logo": "fa fa-fw fa-github",
+            "organization": "Pattern Recognition"
+        },
+        {
+            "title": "Network Optimization",
+            "tags": [
+                "Python",
+                "Algorithms",
+                "Data Structures"
+            ],
+            "description": [
+                "Implemented a network routing protocol in Python with Dijkstra&rsquo;s and Kruskal&rsquo;s max- bandwidth-path algorithms and multiple data structures."
+            ],
+            "link": "https://github.com/petrosliu/Network-Optimization",
+            "logo": "fa fa-fw fa-github",
+            "organization": "Analysis of Algorithms"
+        },
+        {
+            "title": "Website Design",
+            "tags": [
+                "JavaScript",
+                "Bootstrap",
+                "HTML",
+                "CSS"
+            ],
+            "description": [
+                "Designed a restaurant website supporting reservation and review using JavaScript and Bootstrap."
+            ],
+            "link": "https://github.com/petrosliu/Restaurant-Website",
+            "logo": "fa fa-fw fa-github",
+            "organization": "Front-End Web UI Frameworks and Tools"
+        },
+        {
+            "title": "Photo Filter iOS App",
+            "tags": [
+                "Swift",
+                "iOS",
+                "Image Processing"
+            ],
+            "description": [
+                "Developed a universal photo editing app for iOS in Swift to offer multiple blend filters and tunings."
+            ],
+            "link": "https://github.com/petrosliu/Photo-Filter-App",
+            "logo": "fa fa-fw fa-github",
+            "organization": "iOS App Development Basics"
+        }
+    ],
     "honors": [
         {
             "title": "Graduate Merit Scholarship",

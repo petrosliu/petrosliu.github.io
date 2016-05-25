@@ -186,7 +186,7 @@ $(document).ready(function() {
     $('#mail-toggled').html('<i class="fa fa-fw fa-inbox"></i>&nbsp;' + text);
     $('#mail-sidebar').html('<i class="fa fa-fw fa-inbox"></i>&nbsp;&nbsp;' + text);
 
-    $('#resumeframe').attr('height', window.innerHeight - 130);
+    $('#resumeframe').attr('height', window.innerHeight - 150);
 
     $('[data-toggle="tooltip"]').tooltip({
         container: 'body'
@@ -254,7 +254,7 @@ $(window).resize(function() {
     } else {
         $("#sidebar-toggled").collapse('hide');
     }
-    $('#resumeframe').attr('height', window.innerHeight - 130);
+    $('#resumeframe').attr('height', window.innerHeight - 150);
 });
 
 if (($(window).height() + 100) < $(document).height()) {

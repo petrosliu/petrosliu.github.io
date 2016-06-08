@@ -60,6 +60,12 @@ h1, h2, .h3, .ripplelink{
     padding: 15px;
     animation-duration: 1.5s;
 }
+/*
+#page-content-wrapper > .row{
+    -webkit-filter: blur(15px);
+    filter: blur(15px);
+}
+*/
 #wrapper.toggled #page-content-wrapper {
     position: absolute;
     margin-right: -300px;

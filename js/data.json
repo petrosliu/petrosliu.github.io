@@ -81,8 +81,8 @@
         ],
         "others": [
             {
-                "name": "Coursera",
-                "color": "#0068b0",
+                "name": "MOOC",
+                "color": "#868484",
                 "courses": [
                     "Front-End Web UI Frameworks and Tools",
                     "Machine Learning",

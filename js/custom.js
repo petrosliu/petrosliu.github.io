@@ -158,33 +158,9 @@ $(document).ready(function() {
     honortext += '</tbody></table>';
     $('#honortable').html(honortext);
 
-    var gizmostext = '';
-    for (var i = 0; i < obj.gizmos.length; i++) {
-        gizmostext += '<a href="'+
-            obj.gizmos[i].link +
-            '" data-toggle="tooltip" rel="popover" title="'+
-            obj.gizmos[i].title +
-            '"><img class="gizmo img-responsive" draggable="false" src="'+
-            obj.gizmos[i].logo +
-            '"></a>';
-    }
-    $('#gizmostable').html(gizmostext);
-
-    var text = "tel:" + atob(obj.basics.tel);
-    $('#phone-toggled').attr('href', text);
-    $('#phone-sidebar').attr('href', text);
-
-    text = atob(obj.basics.others.formattedtel);
-    $('#phone-toggled').html('<i class="fa fa-fw fa-phone"></i>&nbsp;' + text);
-    $('#phone-sidebar').html('<i class="fa fa-fw fa-phone"></i>&nbsp;&nbsp;' + text);
-
-    text = atob(obj.basics.email);
+    var text = atob(obj.basics.email);
     $('#mail-toggled').attr('href', 'mailto:' + text);
     $('#mail-sidebar').attr('href', 'mailto:' + text);
-
-    text = atob(obj.basics.others.formattedemail);
-    $('#mail-toggled').html('<i class="fa fa-fw fa-inbox"></i>&nbsp;' + text);
-    $('#mail-sidebar').html('<i class="fa fa-fw fa-inbox"></i>&nbsp;&nbsp;' + text);
 
     $('#resumeframe').attr('height', window.innerHeight - 150);
 

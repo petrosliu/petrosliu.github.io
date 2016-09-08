@@ -101,30 +101,28 @@
                 "Python",
                 "JavaScript",
                 "Ruby",
-                "SQL",
                 "Shell Scripting",
-                "Swift"
+                "Swift",
+                "HTML/CSS"
             ]
         },
         {
             "kind": "Web Development",
             "items": [
-                "JavaScript",
-                "Ruby on Rails",
-                "Python",
-                "Bootstrap",
-                "HTML",
-                "CSS",
-                "XML",
-                "JSON"
+                "Node.js",
+                "AngularJS",
+                "MongoDB",
+                "Rails",
+                "SQL",
+                "Bootstrap"
             ]
         },
         {
             "kind": "Tools",
             "items": [
                 "Visual Studio",
-                "Matlab",
                 "Linux",
+                "Matlab",
                 "Git",
                 "OpenGL",
                 "OpenCV",
@@ -151,7 +149,7 @@
                 "Data Compression"
             ],
             "location": "Media Lab, Department of Electrical &amp; Computer Engineering, Texas A&amp;M University, TX",
-            "time": "January 2015 - Present",
+            "time": "January 2015 - August 2016",
             "description": [
                 "Designed a JPEG XR encoder in C++ to support efficient and precise control of bit rate and SNR.",
                 "Proposed an image format based on JPEG XR to store 3D geophysical data (SEG-Y) with floating-point values in any range."

@@ -1,1 +1,23 @@
-<svg width="1024px" height="1024px" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns"><g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage"><g id="1024" sketch:type="MSArtboardGroup" stroke="#000000" fill="#000000"><path d="M303.151979,973.554126 L386.691187,973.554126 L565.347202,332.390702 L481.807993,332.390702 L303.151979,973.554126 Z" id="Path-2" sketch:type="MSShapeGroup"></path><path d="M711.44986,691.609298 L794.989068,691.609298 L973.645083,50.4458736 L890.105874,50.4458736 L711.44986,691.609298 Z" id="Path-2" sketch:type="MSShapeGroup"></path><path d="M729.292898,332.536777 L645.75369,332.536777 L547.029736,688.330503 L630.568945,688.330503 L729.292898,332.536777 Z" id="Path" sketch:type="MSShapeGroup"></path><path d="M399.313025,332.390702 L315.773817,332.390702 L217.049863,688.184428 L300.589071,688.184428 L399.313025,332.390702 Z" id="Path" sketch:type="MSShapeGroup"></path><path d="M50.4458736,691.609298 L133.985082,691.609298 L312.641096,50.4458736 L229.101888,50.4458736 L50.4458736,691.609298 Z" id="Path" sketch:type="MSShapeGroup"></path></g></g></svg>
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
+ "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg"
+ width="700.000000pt" height="700.000000pt" viewBox="0 0 700.000000 700.000000"
+ preserveAspectRatio="xMidYMid meet">
+<metadata>
+Created by potrace 1.11, written by Peter Selinger 2001-2013
+</metadata>
+<g transform="translate(0.000000,700.000000) scale(0.100000,-0.100000)"
+fill="#000000" stroke="none">
+<path d="M1133 5892 c-16 -2 -23 -10 -23 -25 -4 -218 0 -4750 4 -4754 4 -5
+363 -7 629 -4 l47 1 -2 2391 -3 2391 -315 1 c-173 1 -325 1 -337 -1z"/>
+<path d="M2148 5892 c-14 -3 -16 -125 -16 -1197 l0 -1195 342 0 342 0 0 1195
+0 1195 -21 0 c-132 3 -635 4 -647 2z"/>
+<path d="M3198 5892 c-28 -2 -38 -8 -38 -20 -1 -9 -2 -1085 -3 -2390 l-2
+-2372 40 -1 c187 -3 638 1 642 5 7 7 7 4765 0 4772 -6 6 -577 11 -639 6z"/>
+<path d="M5219 5889 c-5 -3 -8 -975 -7 -2393 l3 -2388 333 -1 c182 0 335 3
+338 6 7 7 9 4766 1 4773 -6 7 -657 10 -668 3z"/>
+<path d="M4184 2305 c0 -1194 0 -1195 21 -1196 29 -1 594 -1 631 0 l32 1 0
+1195 0 1195 -342 0 -342 0 0 -1195z"/>
+</g>
+</svg>

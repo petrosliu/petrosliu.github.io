@@ -306,30 +306,30 @@
         }
     ],
     "gizmos": [
-        {
-            "title": "YIDING LIU",
-            "link": "http://im.liuyid.in",
-            "logo": "http://im.liuyid.in/img/favicon/favicon-194x194.png"
-        },
-        {
-            "title": "Code Note",
-            "link": "http://codenote.liuyid.in",
-            "logo": "http://codenote.liuyid.in/images/icons/favicon-194x194.png"
-        },
-        {
-            "title": "Timeslot x Bootstrap",
-            "link": "http://timeslot.liuyid.in",
-            "logo": "http://timeslot.liuyid.in/favicon-194x194.png"
-        },
-        {
-            "title": "World Watch",
-            "link": "http://watch.liuyid.in",
-            "logo": "http://watch.liuyid.in/favicon-194x194.png"
-        },
-        {
-            "title": "Heading Anchor Converter",
-            "link": "http://hac.liuyid.in",
-            "logo": "http://hac.liuyid.in/icons/favicon-194x194.png"
-        }
+        // {
+        //     "title": "YIDING LIU",
+        //     "link": "http://im.liuyid.in",
+        //     "logo": "http://im.liuyid.in/img/favicon/favicon-194x194.png"
+        // },
+        // {
+        //     "title": "Code Note",
+        //     "link": "http://codenote.liuyid.in",
+        //     "logo": "http://codenote.liuyid.in/images/icons/favicon-194x194.png"
+        // },
+        // {
+        //     "title": "Timeslot x Bootstrap",
+        //     "link": "http://timeslot.liuyid.in",
+        //     "logo": "http://timeslot.liuyid.in/favicon-194x194.png"
+        // },
+        // {
+        //     "title": "World Watch",
+        //     "link": "http://watch.liuyid.in",
+        //     "logo": "http://watch.liuyid.in/favicon-194x194.png"
+        // },
+        // {
+        //     "title": "Heading Anchor Converter",
+        //     "link": "http://hac.liuyid.in",
+        //     "logo": "http://hac.liuyid.in/icons/favicon-194x194.png"
+        // }
     ]
 }

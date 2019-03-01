@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
-<url> <loc>http://im.liuyid.in/index.html#aboutme</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>http://im.liuyid.in/index.html#objective</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>http://im.liuyid.in/index.html#education</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>http://im.liuyid.in/index.html#skills</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>http://im.liuyid.in/index.html#experience</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>http://im.liuyid.in/index.html#honors</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>http://codenote.liuyid.in/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>http://timeslot.liuyid.in/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>http://watch.liuyid.in/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>http://hac.liuyid.in/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>http://liu.yiding.dev/index.html#aboutme</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>http://liu.yiding.dev/index.html#objective</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>http://liu.yiding.dev/index.html#education</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>http://liu.yiding.dev/index.html#skills</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>http://liu.yiding.dev/index.html#experience</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>http://liu.yiding.dev/index.html#honors</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 </urlset>

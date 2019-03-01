@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
-<url> <loc>http://liu.yiding.dev/index.html#aboutme</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>http://liu.yiding.dev/index.html#objective</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>http://liu.yiding.dev/index.html#education</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>http://liu.yiding.dev/index.html#skills</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>http://liu.yiding.dev/index.html#experience</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>http://liu.yiding.dev/index.html#honors</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>http://yiding.dev/index.html#aboutme</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>http://yiding.dev/index.html#objective</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>http://yiding.dev/index.html#education</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>http://yiding.dev/index.html#skills</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>http://yiding.dev/index.html#experience</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>http://yiding.dev/index.html#honors</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 </urlset>

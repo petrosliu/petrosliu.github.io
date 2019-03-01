@@ -6,6 +6,10 @@
     -ms-user-select: none;
     user-select: none;
 }
+body {
+    filter: blur(15px);
+    pointer-events: none;
+}
 p, h1, h2, h3, h4, h5, h6, td, div {
     cursor: default;
 }
